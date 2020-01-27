@@ -1,0 +1,26 @@
+body {
+    background-color: #919B94;
+    margin: 4em 6em 2em 6em;
+}
+
+h1, h3, p {
+    color: #5B7664;
+}
+
+h1 {
+    text-align: center;
+    background-color: #9CB7A5;
+    border-radius: 15px;
+    padding: 1em 0 1em 0;
+    border-style: outset;
+}
+
+.friend {
+    padding: 2em;
+    background-color: #9CB7A5;
+    border-radius: 15px;
+    border-style: outset;
+}
+
+
+
